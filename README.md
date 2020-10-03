@@ -1,5 +1,5 @@
 # MyGOPhercises
-Go Exercises
-more info : 
-https://github.com/gophercises/quiz
+Go Exercises<br/>
+### More info : <br/>
+https://github.com/gophercises/quiz <br/>
 https://gophercises.com
